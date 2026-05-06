@@ -37,3 +37,11 @@ adamzeeee: GitHub is very cool and not scary at all!
 - I learned about the git workflow and came up with an acronym for it 'Pizza Before Every Commit Prevent Poor Moods' — @Della05
 
 **SA** — GitHub finally made sense to me after understanding that branches are like draft copies  and PRs are how you propose changes back to the original.Excited to use this for managing docs and workflows!
+
+**jjaaeeone** - I learned the workflow: pull, branch, edit, commit, push, PR, merge
+
+**@JNY8630** — GitHub is analogous to SharePoint or Teams: we're all working with shared cloud-based files. The key difference is the workflow. In a regular office, everyone edits the same cloud file simultaneously, relying on version history to roll things back. In GitHub, you pull the file down locally, make your changes in isolation, push them back up, and then GitHub handles merging — something we do manually (or badly) in normal office work.
+
+What struck me is the discipline this creates: there's a clear main file, individuals go off and propose changes, request specific reviewers, and only merge once it's approved. That structured loop doesn't really exist in corporate tools today. I wonder if, as AI-native workflows become more common, more office workers will start adopting this GitHub-style pattern — because the conceptual leap isn't that big, and the benefit in clarity and structure is real.
+
+- **chandrikasriv**: I had never heard about the concept of "stashing" before, and I didn't realize one can easily switch to someone else's branch. That's very cool.
