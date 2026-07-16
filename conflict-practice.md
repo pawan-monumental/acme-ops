@@ -1,4 +1,4 @@
 # Practice
 
-Status: stable
+Status: hotfixed on main
 Owner: acme team
